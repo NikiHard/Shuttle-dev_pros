@@ -1,0 +1,116 @@
+{
+  "project_info": {
+    "project_number": "63086323553",
+    "firebase_url": "https://admob-app-id-7146306913.firebaseio.com",
+    "project_id": "admob-app-id-7146306913",
+    "storage_bucket": "admob-app-id-7146306913.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63086323553:android:5a4ad318d05213d5",
+        "android_client_info": {
+          "package_name": "com.pt.wallpaper.board"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63086323553-gms1hj9anklldgdfce3s95ca81c88o0l.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "63086323553-d7o461qob142c2ndj98a56pkocvggqqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5focFMAAxf4opOI9fo-YpwUoeRMHngIE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63086323553:android:b716a94604d73d52",
+        "android_client_info": {
+          "package_name": "ru.pt.music.player"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63086323553-gms1hj9anklldgdfce3s95ca81c88o0l.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "63086323553-d7o461qob142c2ndj98a56pkocvggqqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5focFMAAxf4opOI9fo-YpwUoeRMHngIE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63086323553:android:136f88f1548f0b84",
+        "android_client_info": {
+          "package_name": "ru.pt.music.players"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63086323553-gms1hj9anklldgdfce3s95ca81c88o0l.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "63086323553-d7o461qob142c2ndj98a56pkocvggqqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5focFMAAxf4opOI9fo-YpwUoeRMHngIE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
